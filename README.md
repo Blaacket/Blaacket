@@ -32,5 +32,5 @@ As mentioned above my current job and love for computers and security has develo
 
 Check out my Blue Team CTF portfolio for write-ups and completed challenges:
 
-[🕵️‍♂️ View CTF Portfolio Repository](https://github.com/Blaacket/CTFS.md)
+[🕵️‍♂️ View CTF Portfolio Repository](https://github.com/Blaacket/Blaacket/blob/main/CTFS.md)
 
