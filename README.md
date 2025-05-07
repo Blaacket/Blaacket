@@ -28,6 +28,9 @@ As mentioned above my current job and love for computers and security has develo
 - Detection Lab
 - SOC Automation Project
 
-## CTFS
+## 🛡️ My Blue Team CTF Portfolio
 
--BruteForce Logs Challenge
+Check out my Blue Team CTF portfolio for write-ups and completed challenges:
+
+[🕵️‍♂️ View CTF Portfolio Repository](https://github.com/Blaacket/Cyber Security Rooms.md)
+
